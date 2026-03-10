@@ -1,0 +1,1 @@
+print('Shiru is a good boy')
